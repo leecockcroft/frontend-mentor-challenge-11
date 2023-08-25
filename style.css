@@ -175,11 +175,15 @@ padding-top:2.4rem;
 main p {
   color: #87879D;
 text-align: center;
-
+    padding-top: 8rem;
 font-size: 1.6rem;
 font-style: normal;
 font-weight: 500;
 line-height: 2.6rem; /* 162.5% */
+
+
+
+
 }
 
 footer{
@@ -269,9 +273,17 @@ footer .download {
     padding-top:1.6rem;
   }
 
+  main h2 {
+    font-size: 4rem;
+    width: 44.5rem;
+  }
+
   main p {
     padding-top:3.2rem;
-  }
+  letter-spacing: 0.4rem;
+
+width: 54rem;
+ }
 
 .image-left,.image-right{
   position:absolute;
@@ -287,7 +299,9 @@ footer .download {
     width:auto;
 }
 
-
+.bottom {
+  margin-top:7.2rem !important;
+}
 }
 
 
