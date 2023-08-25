@@ -297,7 +297,15 @@ footer .download {
   .wrapper{
     max-width:1440px;
   }
-
+.logo-wrapper{
+  padding-bottom:10.8rem;
+}
+.image-left{
+      top: 27.9rem;
+}
+.image-right{
+  
+}
 .main-text h1{
   font-size:6.4rem;
 width:44.5rem;
