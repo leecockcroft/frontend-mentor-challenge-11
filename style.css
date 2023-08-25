@@ -327,14 +327,15 @@ line-height: 2.6rem; /* 144.444% */
 }
 
 .box-wrapper{
-  justify-content: space-evenly;
+  justify-content: center;
 
 
 
 }
 
 .box{
-  width: 255px;
-height: 242px
+  width: 25.5rem;
+      margin: 0 3.2rem;
+height: 24.2rem;
 }
 }
