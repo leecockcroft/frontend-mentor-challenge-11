@@ -357,10 +357,15 @@ line-height: 2.6rem; /* 144.444% */
 height: 24.2rem;
 }
 
+footer{
+  padding:30rem;
+}
+
 footer.center{
   flex-direction:row;
   align-items:center;
   justify-content: space-between;
+
 }
 
 
