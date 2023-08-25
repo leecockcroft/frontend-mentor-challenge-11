@@ -327,7 +327,9 @@ line-height: 2.6rem; /* 144.444% */
 }
 
 .box-wrapper{
-  justify-content: center;
+  width: 111.0rem;
+      /* padding-left: 16.5rem; */
+      margin: auto;
 
 
 
@@ -335,7 +337,7 @@ line-height: 2.6rem; /* 144.444% */
 
 .box{
   width: 25.5rem;
-      margin: 0 3.2rem;
+    
 height: 24.2rem;
 }
 }
