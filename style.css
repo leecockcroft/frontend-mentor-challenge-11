@@ -334,10 +334,12 @@ line-height: 2.6rem; /* 144.444% */
 
 
 }
-
+.number-wrapper{
+      margin-top: 11rem;
+}
 .box{
   width: 25.5rem;
-    
+
 height: 24.2rem;
 }
 }
