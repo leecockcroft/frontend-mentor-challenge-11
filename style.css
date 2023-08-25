@@ -325,4 +325,16 @@ font-size: 1.8rem;
 
 line-height: 2.6rem; /* 144.444% */
 }
+
+.box-wrapper{
+  justify-content: space-evenly;
+
+
+
+}
+
+.box{
+  width: 255px;
+height: 242px
+}
 }
