@@ -299,12 +299,13 @@ footer .download {
   }
 .logo-wrapper{
   padding-bottom:10.8rem;
+  padding-top: 8rem;
 }
 .image-left{
-      top: 27.9rem;
+
 }
 .image-right{
-  
+    top: 22.4rem;
 }
 .main-text h1{
   font-size:6.4rem;
